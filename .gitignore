@@ -1,0 +1,42 @@
+# Build
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Databases
+*.db
+*.db-journal
+
+# Environment configs
+.env
+secrets.json
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Dotnet publish
+publish/
+*.deps.json
+*.runtimeconfig.json
+*.pdb
+
+# Others
+*.bak
+*.swp

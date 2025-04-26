@@ -1,0 +1,13 @@
+﻿# Arquivos Ignorados por Default
+/shelf/
+/workspace.xml
+# Arquivos ignorados pelo Rider
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.DesafioNubank.iml
+# Requests do HTTP Client baseado no editor
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
